@@ -10,8 +10,6 @@
 
 Чтобы загрузить базовый каркас Symfony 2 для Ailove Factory, у вас есть два варианта:
 
-To download the standard edition, you have two options:
-
 ### Скачать архив
 
 Самый простой способ - скачать ZIP архив данного репозитория и распаковать его в соответсвующую директорию виртуального хоста веб-сервера.
@@ -26,9 +24,6 @@ To download the standard edition, you have two options:
 
 2) Установка
 ---------------
-
-Once you've downloaded the standard edition, installation is easy, and basically
-involves making sure your system is ready for Symfony.
 
 ### a) Проверьте параметры системы (окружения)
 
@@ -51,16 +46,12 @@ involves making sure your system is ready for Symfony.
 
     http://virtual_host.lo/config.php
 
-If everything looks good, click the "Bypass configuration and go to the Welcome page"
-link to load up your first Symfony page.
-
 Если все хорошо, перейдите по ссылке "Bypass configuration and go to the Welcome page", чтобы загрузить первую страницу Symfony.
 
 
 Вы так же можете увидеть реальный пример рабочей страницы:
 
     http://virtual_host.lo/app_dev.php
-
 
 3) Узнать больше о Symfony!
 -----------------------
