@@ -1,5 +1,5 @@
 <?php
-$config_files = array('database', 'memcache', 'revision');
+$config_files = array('database', 'memcache', 'revision', 'test');
 $db_port = true;
 $cache_host = true;
 $cache_port = true;

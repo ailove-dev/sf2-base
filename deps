@@ -63,3 +63,31 @@
 [DoctrineBundle]
     git=git://github.com/doctrine/DoctrineBundle.git
     target=/bundles/Doctrine/Bundle/DoctrineBundle
+
+[buzz]
+    git=https://github.com/kriswallsmith/Buzz.git
+    target=/buzz
+ 
+[SahiClient]
+    git=https://github.com/Behat/SahiClient
+    target=/behat/sahi
+ 
+[MinkBundle]
+    git=https://github.com/Behat/MinkBundle.git
+    target=/bundles/Behat/MinkBundle
+ 
+[Mink]
+    git=https://github.com/Behat/Mink.git
+    target=/behat/mink
+ 
+[BehatBundle]
+    git=https://github.com/Behat/BehatBundle.git
+    target=/bundles/Behat/BehatBundle
+ 
+[Gherkin]
+    git=https://github.com/Behat/Gherkin.git
+    target=/behat/Gherkin
+ 
+[Behat]
+    git=https://github.com/Behat/Behat.git
+    target=/behat/Behat
