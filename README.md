@@ -19,8 +19,9 @@ To download the standard edition, you have two options:
 ### Клонировать репозиторий
 
 Выполните в консоли следующие команды:
+
     cd path_to_dir
-    git clone >>>>>>>>>>>>>>> .
+    git clone https://github.com/ailove-dev/sf2-base.git ./
     rm -rf .git
 
 2) Установка
