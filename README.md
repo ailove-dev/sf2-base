@@ -53,7 +53,11 @@
 
     http://virtual_host.lo/app_dev.php
 
-3) Узнать больше о Symfony!
+3) Запуск базового теста
+
+    php app/console --env=test behat
+
+4) Узнать больше о Symfony!
 -----------------------
 
 Отличный способ начать обучение Symfony прочитать краткий обзор [Quick Tour](http://symfony.com/doc/current/quick_tour/the_big_picture.html) который познакомит вас с основными возможностями Symfony 2.
