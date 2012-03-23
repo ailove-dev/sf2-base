@@ -80,5 +80,11 @@ Bundles:
 * **WebProfilerBundle**
 * **SensioDistributionBundle**
 * **SensioGeneratorBundle** ([documentation](http://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html))
+* **buzz**
+* **SahiClient**
+* **MinkBundle**
+* **Mink**
+* **BehatBundle**
+* **Gherkin**
+* **Behat**
 * **HelloBundle**
-
